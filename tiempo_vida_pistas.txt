@@ -1,0 +1,3 @@
+15//5//5//facil
+15//3//3//intermedio
+15//1//2//avanzado
